@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
+My name is Aidan Rosenboom and I am a student at Minnesota State University, Mankato Studying Software Engineering
 <!--
 **Aidan-Rosenboom/Aidan-Rosenboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
